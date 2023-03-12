@@ -1,4 +1,4 @@
-# Bruno Capuano 2020
+# Bruno Capuano 2023
 # display the camera feed using OpenCV
 
 import time
